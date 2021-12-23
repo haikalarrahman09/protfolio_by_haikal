@@ -1,0 +1,12 @@
+.jumbotron{
+    padding: 6rem;
+}
+
+.card {
+    border-size: 4px;
+    background-color: gray;
+  }
+
+section{
+    padding-top: 5rem;
+}
